@@ -120,7 +120,7 @@
     "vscode": "^1.1.28"
   },
   "dependencies": {
-    "mime-types": "^2.1.22",
+    "mime-types": "^2.1.35",
     "open": "^6.1.0",
     "ws": "^6.2.1"
   }
